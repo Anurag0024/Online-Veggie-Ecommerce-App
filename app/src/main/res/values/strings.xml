@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Online_Veggie</string>
+    <string name="draweropen" />
+    <string name="drawerclose" />
+    <string name="start" />
+    <string name="next" />
+</resources>
